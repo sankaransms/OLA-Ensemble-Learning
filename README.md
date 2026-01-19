@@ -1,6 +1,6 @@
-# OLA-Ensemble-Learning
+# Ensemble-Learning
 
-## **About Ola**  
+## **About**  
 Ola is a major player in the ride-hailing industry, known for its vast network of drivers and vehicles, providing convenient and affordable transportation options. However, it faces significant challenges in driver recruitment and retention, which directly impact its operational efficiency and customer satisfaction.
 
 ## **Problem Statement**
